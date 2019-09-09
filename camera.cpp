@@ -8,6 +8,8 @@ using std::endl;
 using std::max;
 using std::min;
 
+add some random test input 
+
 namespace CMU462 {
 
 using Collada::CameraInfo;
